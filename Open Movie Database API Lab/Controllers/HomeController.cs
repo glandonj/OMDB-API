@@ -24,6 +24,8 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
+    //HttpGet unnecessary since it defaults here but this allows more control over methods.
     public IActionResult MovieSearch()
     {
         return View();
@@ -35,20 +37,7 @@ public class HomeController : Controller
         return View(MovieDAL.GetMovie(title));
     }
 
-    //[HttpGet]
-    //public IActionResult MovieSearchForm(MovieModel m)
-    //{
-    //    MovieSearchResults(m.Title);
-    //    return RedirectToAction("MovieSearch");
-    //}
-
-    //[HttpPost]
-    //public IActionResult MovieSearchResults(string title)
-    //{
-    //    MovieDAL.GetMovie(title);
-    //    return RedirectToAction("MovieSearch");
-    //}
-
+    [HttpGet]
     public IActionResult MovieNight()
     {
         return View();

@@ -9,7 +9,7 @@ namespace Open_Movie_Database_API_Lab.Models
         public static MovieModel GetMovie(string title)
         {
             //Setup
-            string key = "2b9440bd";
+            string key = Secret.apiKey;
             string url = $"https://www.omdbapi.com/?apikey={key}&t={title}";
 
             //Request

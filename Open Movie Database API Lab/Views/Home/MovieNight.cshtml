@@ -7,9 +7,9 @@
 <form asp-method="post" asp-action="MovieNight">
     <p>Enter first movie title:</p>
     <input type="text" name="title1" />
-    <p>Enter first movie title:</p>
+    <p>Enter second movie title:</p>
     <input type="text" name="title2" />
-    <p>Enter first movie title:</p>
+    <p>Enter third movie title:</p>
     <input type="text" name="title3" />
 
     <input type="submit" class="btn btn-primary" />
@@ -20,13 +20,17 @@
     {
         foreach (MovieModel m in Model)
         {
-        <h3>@m.Title</h3>
+    <div class="card" style="width: 25rem;">
+        <h3 class="card-header">@m.Title</h3>
+        <img src="@m.Poster" />
         <p>Rating: @m.Rated</p>
         <p>Year: @m.Released</p>
         <p>Runtime: @m.Runtime</p>
         <p>Starring: @m.Actors</p>
         <p>BoxOffice: @m.BoxOffice</p>
         <p>IMDB Rating: @m.ImdbRating</p>
-                }
+        <p class="card-footer">Plot Description: @m.Plot</p>
+    </div>
         }
     }
+}
