@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Open Movie Database API Lab.props" />
+</Project>

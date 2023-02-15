@@ -1,0 +1,33 @@
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/appsettings.Development.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/appsettings.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab.staticwebassets.runtime.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab.deps.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab.runtimeconfig.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab.dll
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Open Movie Database API Lab.pdb
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.csproj.AssemblyReference.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.AssemblyInfoInputs.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.AssemblyInfo.cs
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.csproj.CoreCompileInputs.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.MvcApplicationPartsAssemblyInfo.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.RazorAssemblyInfo.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.RazorAssemblyInfo.cs
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets/msbuild.Open Movie Database API Lab.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets/msbuild.build.Open Movie Database API Lab.props
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Open Movie Database API Lab.props
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Open Movie Database API Lab.props
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets.build.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/staticwebassets.development.json
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/scopedcss/bundle/Open Movie Database API Lab.styles.css
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/scopedcss/projectbundle/Open Movie Database API Lab.bundle.scp.css
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.csproj.CopyComplete
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.dll
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/refint/Open Movie Database API Lab.dll
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.pdb
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/Open Movie Database API Lab.genruntimeconfig.cache
+/Users/glandoncomputer/Projects/Open Movie Database API Lab/Open Movie Database API Lab/obj/Debug/net6.0/ref/Open Movie Database API Lab.dll

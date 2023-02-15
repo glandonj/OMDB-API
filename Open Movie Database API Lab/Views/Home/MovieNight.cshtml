@@ -1,0 +1,32 @@
+﻿@model List<MovieModel>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+<form asp-method="post" asp-action="MovieNight">
+    <p>Enter first movie title:</p>
+    <input type="text" name="title1" />
+    <p>Enter first movie title:</p>
+    <input type="text" name="title2" />
+    <p>Enter first movie title:</p>
+    <input type="text" name="title3" />
+
+    <input type="submit" class="btn btn-primary" />
+</form>
+
+@{
+    if (Model != null)
+    {
+        foreach (MovieModel m in Model)
+        {
+        <h3>@m.Title</h3>
+        <p>Rating: @m.Rated</p>
+        <p>Year: @m.Released</p>
+        <p>Runtime: @m.Runtime</p>
+        <p>Starring: @m.Actors</p>
+        <p>BoxOffice: @m.BoxOffice</p>
+        <p>IMDB Rating: @m.ImdbRating</p>
+                }
+        }
+    }
